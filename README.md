@@ -1,4 +1,4 @@
-# bksys-transaction-ms
+# bksys_transaction_ms
 
 Transaction Micro Service
 
@@ -15,7 +15,7 @@ poetry install && poetry shell
 
 ### Run application for development
 ```
-uvicorn bksys-transaction-ms:app --reload --port 8083
+uvicorn bksys_transaction_ms:app --reload --port 8083
 ```
 
 ## Lint project
